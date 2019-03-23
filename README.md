@@ -21,3 +21,5 @@ add main or hello_world to INSTALLED_APPS in settings.py
 
 ./manage.py test
 ```
+
+superuser: irekromaniuk
