@@ -2,7 +2,7 @@
 
 [GitHub repo for Portfolio App](https://github.com/realpython/materials/tree/a639f1c2f85032334fbb4dca88f3e8dc88397f6d/rp-portfolio)
 
-[Oreilly book](learning.oreilly.com/library/view/practical-django-2/)
+[OReilly book](learning.oreilly.com/library/view/practical-django-2/)
 
 ### NOTES:
 
